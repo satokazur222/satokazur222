@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#### 作成中
+* [Numpri - 受付の順番だけをマネジメントする](https://numpri.hitpoint0.com)
+  フロントエンドの練習 javascript html
+  
+
 <!--
 **satokazur222/satokazur222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
