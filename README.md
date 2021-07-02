@@ -1,13 +1,5 @@
 ### Hi there 👋 I'm SatoKazu
 
-#### 作成中のもの
-
-<dl>
-<dt><a href="https://numpri.hitpoint0.com">Numpri - 受付の順番だけをマネジメントする</a><dt>
-<dd>フロントエンドの練習のために作成(javascript html)</dd>
-</dl>
-  
-  
 
 <!--
 **satokazur222/satokazur222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
